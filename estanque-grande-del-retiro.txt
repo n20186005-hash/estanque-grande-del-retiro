@@ -1,0 +1,104 @@
+你正在用（Next.js开发）
+为一个新景点【 Estanque Grande del Retiro】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+estanque-grande-del-retiro
+西班牙
+马德里自治区	Estanque Grande del Retiro
+
+Estanque Grande del Retiro
+4.7(34,569)
+旅游胜地
+P.º de Colombia, 2, Retiro, 28016 Madrid, Spain
++34915744024
+C888+VC Madrid, Spain
+
+https://maps.app.goo.gl/UiQJMWAmzD3pyw6aA
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\西班牙\estanque-grande-del-retiro\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+
+西班牙国家旅游局
+https://www.spain.info/
+马德里大区政府
+https://www.comunidad.madrid/
+马德里市政府官方旅游门户
+https://www.esmadrid.com/
+光之景观
+https://www.paisajedelaluz.es/
+马德里市纪念碑与古迹建筑数字档案库
+https://monumentamadrid.es/AM_Portada/AM_Portada_WEB/index2.htm
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/UiQJMWAmzD3pyw6aA
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/UiQJMWAmzD3pyw6aA
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/UiQJMWAmzD3pyw6aA
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/UiQJMWAmzD3pyw6aA
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/UiQJMWAmzD3pyw6aA
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增西班牙语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+为您整理了 Estanque Grande del Retiro（丽池大池塘）及周边区域严格从国家级机构向下延伸至地方专业遗产数据库的5个纯正官方政府链接链条。这套结构可以直接作为权威数据源引用：
+
+**1. 国家级：西班牙国家旅游局（Turespaña）**
+
+* **主管政府部门**：西班牙（Spain）工业与旅游部 (Ministerio de Industria y Turismo)
+* **官方网站**：[spain.info](https://www.spain.info)
+* **数据价值**：提供西班牙国家层面的宏观出入境旅游指引、国家旅游品牌形象宣传及核心景点的跨国界背书。
+
+**2. 大区级：马德里大区官方旅游局（Turismo de la Comunidad de Madrid）**
+
+* **主管政府部门**：马德里大区政府 (Comunidad de Madrid)
+* **官方网站**：[turismomadrid.es](https://www.google.com/search?q=https://turismomadrid.es)
+* **数据价值**：提供整个马德里大区层面的综合资源调度、旅游政策导向、交通枢纽网络（如公共交通覆盖）以及大区级景点名录的官方入口。
+
+**3. 市级：马德里市政府官方旅游门户（Madrid Destino）**
+
+* **主管政府部门**：马德里市议会 (Ayuntamiento de Madrid)
+* **官方网站**：[esmadrid.com](https://www.esmadrid.com)
+* **数据价值**：直击马德里（Madrid）核心城区的具体市政服务设施状态，包含该水池的开放时间、门票费用、划船租赁服务以及本地最新活动日历的精确信息源。
+
+**4. 专项自然/文化遗产区数据库：“光之景观”官方名录（Paisaje de la Luz）**
+
+* **主管政府部门**：马德里市议会文化、旅游与体育部
+* **官方网站**：[paisajedelaluz.es](https://www.paisajedelaluz.es)
+* **数据价值**：丽池公园（Parque de El Retiro）与普拉多大道已共同被联合国教科文组织列入世界遗产名录。该政府专设网站提供了公园自然生态圈、植物多样性及城市绿色遗产空间的官方档案和地图数据。
+
+**5. 地方级专业历史遗产数据库：马德里市纪念碑与古迹建筑数字档案库（MonumentaMadrid）**
+
+* **主管政府部门**：马德里市议会文化基础设施总局
+* **官方网站**：[monumentamadrid.es](http://www.monumentamadrid.es)
+* **数据价值**：这是马德里最权威的建筑与古迹数据库。专项收录了 Estanque Grande del Retiro 及其核心附属建筑（如池畔雄伟的阿方索十二世国王纪念碑 Monumento a Alfonso XII）的官方保护档案、历史图纸、学术级建筑评估报告及精确的不动产遗产编码。
+
