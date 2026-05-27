@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "Estanque Grande del Retiro",
+    "description": "Guía completa del Estanque Grande del Retiro en Madrid. Conoce este lugar turístico, su ubicación, información de visita y consejos de viaje."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Estanque Grande del Retiro",
+    "subtitle": "Lugar turístico · Madrid",
+    "rating": "4.7",
+    "reviewCount": "34,569 reseñas",
+    "type": "Lugar turístico",
+    "openMaps": "Ver en Google Maps"
+  },
+  "intro": {
+    "title": "Descubre el Estanque Grande del Retiro",
+    "description": "El Estanque Grande del Retiro es uno de los lugares más emblemáticos del Parque del Retiro en Madrid, España. Situado en el corazón de la ciudad, este estanque ofrece un ambiente relajante, perfecto para pasear, disfrutar de un paseo en barca y actividades al aire libre. Es un lugar favorito tanto para los locales como para los turistas.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "El estanque es accesible durante todo el año y la entrada al parque es gratuita.",
+        "Lugar ideal para un paseo en barca o un relajante paseo por los alrededores.",
+        "Ofrece excelentes vistas del Monumento a Alfonso XII y abundante vegetación."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Monumento a Alfonso XII",
+        "Paseos en barca",
+        "Aldeas de madera",
+        "Vegetación abundante"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre el Estanque Grande del Retiro",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Antecedentes Históricos",
+        "content": "El Estanque Grande del Retiro fue construido en el siglo XVII durante el reinado de Felipe IV. Originalmente fue diseñado como un lugar de recreo para la realeza. Con el tiempo, se convirtió en uno de los principales atractivos recreativos de Madrid."
+      },
+      {
+        "id": "layout",
+        "title": "Geografía y Distribución",
+        "content": "El estanque está situado en el Parque del Retiro, cerca del centro de Madrid. Su diseño incluye paseos peatonales, bancos, áreas de descanso y el imponente Monumento a Alfonso XII en su extremo sur."
+      },
+      {
+        "id": "culture",
+        "title": "Importancia Cultural",
+        "content": "Como uno de los lugares más populares de la capital española, el estanque alberga frecuentemente eventos culturales, festivales y actividades al aire libre, siendo un punto de encuentro importante para la comunidad local."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecología y Flora",
+        "content": "El entorno del estanque alberga una impresionante variedad de especies vegetales, incluyendo numerosos árboles ornamentales y flora espontánea. Muchas especies de aves encuentran refugio aquí, convirtiéndolo en un importante refugio urbano para la biodiversidad."
+      },
+      {
+        "id": "facilities",
+        "title": "Instalaciones Recreativas",
+        "content": "En los alrededores del estanque se pueden encontrar múltiples terrazas de madera, áreas de descanso y varios quioscos que ofrecen bebidas y tentempiés, permitiéndote disfrutar de servicios convenientes mientras exploras la naturaleza."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Estanque Grande del Retiro",
+    "type": "Tipo de Atracción",
+    "typeValue": "Lugar turístico",
+    "country": "País",
+    "countryValue": "España",
+    "city": "Ciudad",
+    "cityValue": "Madrid",
+    "googleRating": "Valoración Google",
+    "googleRatingValue": "4.7 (34,569)",
+    "address": "Dirección",
+    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "C888+VC Madrid, Spain"
+  },
+  "hours": {
+    "title": "Horario de Visita",
+    "park": "Acceso al Parque",
+    "parkTime": "Abierto todo el año (24 horas al día)",
+    "bestTime": "Mejor Época para Visitar",
+    "bestTimeSpring": "Primavera: Clima agradable y floración",
+    "bestTimeSummer": "Verano: Días soleados, ideal para paseos en barca",
+    "bestTimeAutumn": "Otoño: Hermosas hojas otoñales y ambiente relajante",
+    "bestTimeWinter": "Invierno: Paisajes invernales pintorescos",
+    "tip": "El parque está abierto las 24 horas del día, accesible en cualquier momento."
+  },
+  "tickets": {
+    "title": "Información de Entrada",
+    "park": "Visita al Sitio",
+    "parkPrice": "Entrada gratuita al parque",
+    "parking": "Estacionamiento",
+    "parkingPrice": "Estacionamiento disponible cerca (de pago)",
+    "guided": "Visitas Guiadas",
+    "guidedPrice": "Autoguiado"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "fromCenter": "Desde el Centro de Madrid",
+    "fromCenterDesc": "El parque está a una distancia accesible a pie desde el centro de la ciudad.",
+    "fromStation": "Desde la Estación de Autobuses",
+    "fromStationDesc": "Accesible en transporte público local, con paradas cercanas.",
+    "fromAirport": "Desde el Aeropuerto",
+    "fromAirportDesc": "Desde el Aeropuerto Adolfo Suárez Madrid-Barajas, puedes tomar un taxi o transporte público al centro de la ciudad.",
+    "publicTransport": "Transporte Público",
+    "publicTransportDesc": "Bien conectado por la red de transporte público de Madrid, con paradas cercanas.",
+    "walking": "Caminando",
+    "walkingDesc": "Accesible a pie desde múltiples zonas de la ciudad, situado en el centro.",
+    "driving": "En Coche",
+    "drivingDesc": "Accesible en coche, con opciones de estacionamiento cerca."
+  },
+  "route": {
+    "title": "Ruta Recomendada",
+    "overview": "Disfruta de un relajante paseo por el parque y sus alrededores.",
+    "steps": [
+      "Comienza en la entrada principal del Parque del Retiro",
+      "Admira el Estanque Grande del Retiro",
+      "Pasea por los alrededores del Monumento a Alfonso XII",
+      "Disfruta de un paseo en barca por el estanque",
+      "Relájate en las áreas de descanso rodeadas de vegetación"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores Lugares para Fotografías",
+    "spots": [
+      {
+        "title": "Vista del Estanque",
+        "description": "El pintoresco estanque en el medio del parque ofrece excelentes oportunidades para fotografía de paisaje, especialmente durante el amanecer o atardecer.",
+        "location": "Centro del parque",
+        "image": "/gallery/estanque-grande-del-retiro (1).jpg"
+      },
+      {
+        "title": "Monumento a Alfonso XII",
+        "description": "El imponente monumento ofrece un marco perfecto para fotografías arquitectónicas y de paisaje.",
+        "location": "Lado sur del estanque",
+        "image": "/gallery/estanque-grande-del-retiro (2).jpg"
+      },
+      {
+        "title": "Aldeas de Madera",
+        "description": "Las pintorescas aldeas de madera ofrecen un marco relajante para fotos de grupo o retratos.",
+        "location": "En el parque",
+        "image": "/gallery/estanque-grande-del-retiro (3).jpg"
+      },
+      {
+        "title": "Vista de la Vegetación",
+        "description": "La abundante vegetación y los árboles antiguos crean un marco natural perfecto para fotos de naturaleza.",
+        "location": "Todo el parque",
+        "image": "/gallery/estanque-grande-del-retiro (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Guía de Alojamiento",
+    "hotels": [
+      {
+        "name": "Centro de Madrid",
+        "desc": "El área central de Madrid ofrece fácil acceso al Parque del Retiro, con numerosos hoteles, restaurantes y tiendas cerca.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Barrio de Retiro",
+        "desc": "Un barrio tranquilo y pintoresco, situado cerca del parque, ideal para quienes buscan paz y aire fresco.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Barrio de Salamanca",
+        "desc": "Situado cerca del parque, esta área ofrece diversas opciones de alojamiento, desde hoteles económicos hasta apartamentos premium.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Área del Prado (Casón del Buen Retiro)",
+        "desc": "El corazón de la capital, cerca de las principales atracciones turísticas y a una distancia accesible a pie del Estanque Grande del Retiro.",
+        "price": "Recomendado"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Vistas del Estanque Grande del Retiro",
+    "captions": [
+      "Vista del estanque",
+      "Monumento a Alfonso XII",
+      "Aldeas de madera",
+      "Áreas de descanso",
+      "Vegetación abundante",
+      "Vistas de verano",
+      "Hojas de otoño",
+      "Paisajes invernales",
+      "Flores de primavera",
+      "Bancos del parque",
+      "Árboles ornamentales",
+      "Atardecer",
+      "Mañana tranquila",
+      "Naturaleza abundante",
+      "Flora diversa",
+      "Paisajes del parque"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver Todas las Fotos",
+    "showLess": "Mostrar Menos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "Los comentarios de los visitantes se pueden ver a través de Google Maps.",
+    "moreReviews": "Ver más reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "Sin duda uno de los lugares más bonitos de Madrid. Siempre vengo aquí a relajarme y pasear. Es un lugar maravilloso para familia y amigos."
+      },
+      {
+        "name": "María L.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "Lugar perfecto para pasear en barca y caminar. La vegetación es superb, y el estanque añade un toque de paz y belleza al lugar."
+      },
+      {
+        "name": "Javier R.",
+        "rating": 5,
+        "date": "2026-05-10",
+        "text": "Un parque hermoso y bien cuidado. Ideal para paseos por la tarde o por la mañana. Lo recomiendo calurosamente a todos los que visiten Madrid."
+      },
+      {
+        "name": "Ana G.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Siendo amante de la naturaleza, me impresionó profundamente la diversidad de árboles y plantas en este parque. Un verdadero rincón de paraíso en medio de la ciudad."
+      },
+      {
+        "name": "Pedro S.",
+        "rating": 4,
+        "date": "2025-11-15",
+        "text": "Excelente lugar para paseos familiares. Los caminos están bien mantenidos y el ambiente es muy relajante. Lo visito cada fin de semana."
+      },
+      {
+        "name": "Lucía T.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Comparado con el ajetreo del centro, este parque ofrece un refugio tranquilo. La sensación de paz y el verde abundante lo convierten en uno de mis lugares favoritos."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "Estanque Grande del Retiro",
+    "brandSubtitle": "Lugar turístico · Madrid",
+    "rights": "© 2026 Estanque Grande del Retiro Asociación Independiente de Investigación Turística · Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Relacionados e Información",
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Recopilación de Información",
+        "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para proporcionar una mejor experiencia de usuario. Esta información no contiene su identidad personal."
+      },
+      {
+        "title": "Uso de Cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de las páginas. Puede gestionar sus preferencias en cualquier momento a través de la opción de Configuración de Cookies en la parte inferior de nuestro sitio."
+      },
+      {
+        "title": "Seguridad y Protección de Datos",
+        "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comerciaremos con sus datos de navegación a ninguna organización comercial de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Contenido y Uso del Sitio Web",
+        "content": "Este sitio web proporciona información de viaje, transporte e histórica sobre el Estanque Grande del Retiro. Todo el contenido es solo para referencia. El horario de apertura real y la información de entradas de las atracciones pueden cambiar en cualquier momento, consulte los anuncios oficiales."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "content": "El texto, las imágenes y los diseños de diseño en este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede usar el contenido del sitio web con fines de lucro comercial."
+      },
+      {
+        "title": "Descargo de Responsabilidad",
+        "content": "Hacemos todo lo posible para garantizar la precisión y actualidad de la información, pero no nos hacemos responsables legalmente por cualquier retraso en el viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Gestione sus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Requeridas para la funcionalidad básica del sitio web y no se pueden desactivar.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "description": "Ayúdanos a entender el comportamiento de los visitantes y mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizado para seguimiento entre sitios y entrega de anuncios personalizados."
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre el Estanque Grande del Retiro",
+    "text": "El Estanque Grande del Retiro es un importante lugar turístico urbano en Madrid, España, siendo un ejemplo perfecto de la combinación de naturaleza con recreación urbana. El área es gestionada conjuntamente para la protección ecológica y las operaciones diarias por el Ayuntamiento de Madrid y los departamentos relacionados de paisajismo y medio ambiente."
+  }
+}

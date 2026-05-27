@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "Estanque Grande del Retiro",
+    "description": "Complete guide to Estanque Grande del Retiro in Madrid. Learn about this tourist attraction, its location, visiting information, and travel tips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Estanque Grande del Retiro",
+    "subtitle": "Tourist Attraction · Madrid",
+    "rating": "4.7",
+    "reviewCount": "34,569 reviews",
+    "type": "Tourist Attraction",
+    "openMaps": "View on Google Maps"
+  },
+  "intro": {
+    "title": "Discover Estanque Grande del Retiro",
+    "description": "The Estanque Grande del Retiro is one of the most iconic landmarks in Madrid's Retiro Park, Spain. Located in the heart of the city, this pond offers a relaxing atmosphere, perfect for strolling, enjoying a boat ride, and outdoor activities. It is a favorite spot for both locals and tourists.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The pond is accessible year-round and admission to the park is free.",
+        "Great place for a boat ride or a relaxing walk around the perimeter.",
+        "Provides excellent views of the Monument to Alfonso XII and abundant vegetation."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Monument to Alfonso XII",
+        "Boat rides",
+        "Wooden pavilions",
+        "Abundant vegetation"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Estanque Grande del Retiro",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+        "content": "The Estanque Grande del Retiro was built in the 17th century during the reign of Philip IV. Originally designed as a recreational area for the royalty. Over time, it became one of the main recreational attractions in Madrid."
+      },
+      {
+        "id": "layout",
+        "title": "Geography & Layout",
+        "content": "The pond is located in Retiro Park, near the center of Madrid. The layout includes pedestrian walkways, benches, rest areas, and the imposing Monument to Alfonso XII at its southern end."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "As one of the most popular places in the Spanish capital, the pond frequently hosts cultural events, festivals, and outdoor activities, being an important meeting point for the local community."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecology & Flora",
+        "content": "The surroundings of the pond host an impressive variety of plant species, including numerous ornamental trees and spontaneous flora. Many bird species find shelter here, making it an important urban refuge for biodiversity."
+      },
+      {
+        "id": "facilities",
+        "title": "Recreation & Sports Facilities",
+        "content": "Around the pond, you can find multiple wooden pavilions, rest areas, and several kiosks offering drinks and snacks, allowing you to enjoy convenient services while exploring nature."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Estanque Grande del Retiro",
+    "type": "Attraction Type",
+    "typeValue": "Tourist Attraction",
+    "country": "Country",
+    "countryValue": "Spain",
+    "city": "City",
+    "cityValue": "Madrid",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.7 (34,569)",
+    "address": "Address",
+    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "C888+VC Madrid, Spain"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Site Access",
+    "parkTime": "Open year-round (24 hours a day)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather and blooming season",
+    "bestTimeSummer": "Summer: Sunny days, ideal for boat rides",
+    "bestTimeAutumn": "Autumn: Beautiful foliage and relaxing atmosphere",
+    "bestTimeWinter": "Winter: Picturesque winter landscapes",
+    "tip": "The park is open 24/7, accessible at any time of the day."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free admission to the park",
+    "parking": "Parking",
+    "parkingPrice": "Parking available nearby (paid)",
+    "guided": "Guided Tours",
+    "guidedPrice": "Self-guided"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Madrid Center",
+    "fromCenterDesc": "The park is within accessible walking distance from the city center.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "Accessible by local public transport, with stops nearby.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "From Adolfo Suárez Madrid-Barajas Airport, you can take a taxi or public transport to the city center.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Well connected by Madrid public transport network, with stops nearby.",
+    "walking": "Walking",
+    "walkingDesc": "Accessible on foot from multiple areas of the city, being centrally located.",
+    "driving": "Driving",
+    "drivingDesc": "Accessible by car, with parking options nearby."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Take a leisurely stroll through the park and surroundings.",
+    "steps": [
+      "Start at the main entrance of Retiro Park",
+      "Admire the Estanque Grande del Retiro",
+      "Walk around the Monument to Alfonso XII",
+      "Enjoy a boat ride on the pond",
+      "Relax in the rest areas surrounded by vegetation"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Pond View",
+        "description": "The picturesque pond in the middle of the park offers excellent landscape photography opportunities, especially during sunrise or sunset.",
+        "location": "Center of the park",
+        "image": "/gallery/estanque-grande-del-retiro (1).jpg"
+      },
+      {
+        "title": "Monument to Alfonso XII",
+        "description": "The imposing monument offers a perfect frame for architectural and landscape photography.",
+        "location": "South side of the pond",
+        "image": "/gallery/estanque-grande-del-retiro (2).jpg"
+      },
+      {
+        "title": "Wooden Pavilions",
+        "description": "The picturesque wooden pavilions offer a relaxing frame for group photos or portraits.",
+        "location": "In the park",
+        "image": "/gallery/estanque-grande-del-retiro (3).jpg"
+      },
+      {
+        "title": "Vegetation Viewpoint",
+        "description": "The abundant vegetation and old trees create a perfect natural frame for nature photos.",
+        "location": "Throughout the park",
+        "image": "/gallery/estanque-grande-del-retiro (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation Guide",
+    "hotels": [
+      {
+        "name": "Madrid Center",
+        "desc": "The central area of Madrid offers easy access to Retiro Park, with numerous hotels, restaurants, and shops nearby.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Retiro District",
+        "desc": "A quiet and picturesque neighborhood, located near the park, ideal for those seeking peace and fresh air.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Salamanca District",
+        "desc": "Located near the park, this area offers diverse accommodation options, from budget hotels to premium apartments.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Prado Area (Casón del Buen Retiro)",
+        "desc": "The heart of the capital, close to main tourist attractions and within accessible walking distance to Estanque Grande del Retiro.",
+        "price": "Recommended"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Scenic Views of Estanque Grande del Retiro",
+    "captions": [
+      "Pond view",
+      "Monument to Alfonso XII",
+      "Wooden pavilions",
+      "Rest areas",
+      "Abundant vegetation",
+      "Summer views",
+      "Autumn foliage",
+      "Winter landscapes",
+      "Spring flowers",
+      "Park benches",
+      "Ornamental trees",
+      "Sunset",
+      "Quiet morning",
+      "Abundant nature",
+      "Diverse flora",
+      "Park landscapes"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "Absolutely one of the most beautiful places in Madrid. I always come here to relax and take walks. It's a wonderful place for family and friends."
+      },
+      {
+        "name": "María L.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "Perfect place for boat rides and walking. The vegetation is superb, and the pond adds a note of peace and beauty to the place."
+      },
+      {
+        "name": "Javier R.",
+        "rating": 5,
+        "date": "2026-05-10",
+        "text": "A beautiful and well-maintained park. Ideal for evening or morning walks. I warmly recommend it to everyone visiting Madrid."
+      },
+      {
+        "name": "Ana G.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Being a nature lover, I was deeply impressed by the diversity of trees and plants in this park. A true corner of paradise in the middle of the city."
+      },
+      {
+        "name": "Pedro S.",
+        "rating": 4,
+        "date": "2025-11-15",
+        "text": "Excellent place for family walks. The walkways are well maintained, and the atmosphere is very relaxing. I visit it every weekend."
+      },
+      {
+        "name": "Lucía T.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Compared to the hustle and bustle of the center, this park offers a quiet refuge. The feeling of peace and abundant greenery makes it one of my favorite places."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Estanque Grande del Retiro",
+    "brandSubtitle": "Tourist Attraction · Madrid",
+    "rights": "© 2026 Estanque Grande del Retiro Independent Tourism Research Association · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel, transportation, and historical information about Estanque Grande del Retiro. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality and cannot be switched off.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and personalized ad delivery."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Estanque Grande del Retiro",
+    "text": "Estanque Grande del Retiro is a major tourist attraction in Madrid, Spain, being a perfect example of combining nature with urban recreation. The area is jointly managed for ecological protection and daily operations by the Madrid City Council and related landscaping and environmental departments."
+  }
+}
